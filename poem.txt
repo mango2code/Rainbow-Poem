@@ -7,5 +7,6 @@ Blue
 Green
 Red
 Yellow
+indigo
 These are the colors.
 and the Unicorn.
